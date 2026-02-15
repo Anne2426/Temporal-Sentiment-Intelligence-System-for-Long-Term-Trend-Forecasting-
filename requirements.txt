@@ -1,0 +1,8 @@
+
+pandas
+numpy
+matplotlib
+nltk
+statsmodels
+tensorflow
+scikit-learn

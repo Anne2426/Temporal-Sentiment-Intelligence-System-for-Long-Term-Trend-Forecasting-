@@ -1,0 +1,6 @@
+date,text,sentiment
+2024-01-01,good product,0.4404
+2024-01-02,bad service,-0.5423
+2024-01-03,average experience,0.0
+2024-01-04,excellent support,0.7506
+2024-01-05,poor quality,-0.4767
