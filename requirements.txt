@@ -6,3 +6,4 @@ nltk
 statsmodels
 tensorflow
 scikit-learn
+vaderSentiment
